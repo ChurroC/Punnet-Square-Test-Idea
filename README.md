@@ -1,1 +1,0 @@
-Hi. This is my experimental blog. I made this using a tutorial by Web Dev Simplified: https://youtu.be/1NrHkjlWVhM. Churros taste nice.
